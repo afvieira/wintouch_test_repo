@@ -1,3 +1,4 @@
+qualquer coisa master
 qualquer coisa feature1
 linha 2
 linha3
